@@ -67,7 +67,7 @@
 ### 4. Truy cập website
 
 Mở trình duyệt và truy cập:  
-[http://localhost:3000](http://localhost:5173/)
+[http://localhost:5173/](http://localhost:5173/)
 
 ![Mô tả ảnh](image\Giao dien.png)
 ![Mô tả ảnh](image\Giao dien 2.png)
