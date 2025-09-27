@@ -71,6 +71,8 @@ Mở trình duyệt và truy cập:
 
 ![Mô tả ảnh](image\Giao dien.png)
 ![Mô tả ảnh](image\Giao dien 2.png)
+![Logo của project](image\Screenshot 2025-09-27 190911.png)
+
 ---
 
 ### 5. Lưu ý (Notes)
