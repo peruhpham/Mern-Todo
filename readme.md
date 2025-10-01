@@ -84,4 +84,8 @@ Mở trình duyệt và truy cập:
   ```bash
   npm install -g nodemon
 
+### 6. Deloy website Todo-App len vercel
 
+- [https://mern-todo-bice.vercel.app/](https://mern-todo-bice.vercel.app/)
+
+--
